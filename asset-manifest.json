@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hw-ra39-react-component-class/static/css/main.17deff29.css",
+    "main.js": "/hw-ra39-react-component-class/static/js/main.48098c68.js",
+    "static/js/787.2a688bde.chunk.js": "/hw-ra39-react-component-class/static/js/787.2a688bde.chunk.js",
+    "static/media/item-blue.jpg": "/hw-ra39-react-component-class/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/hw-ra39-react-component-class/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/hw-ra39-react-component-class/index.html",
+    "main.17deff29.css.map": "/hw-ra39-react-component-class/static/css/main.17deff29.css.map",
+    "main.48098c68.js.map": "/hw-ra39-react-component-class/static/js/main.48098c68.js.map",
+    "787.2a688bde.chunk.js.map": "/hw-ra39-react-component-class/static/js/787.2a688bde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17deff29.css",
+    "static/js/main.48098c68.js"
+  ]
+}
